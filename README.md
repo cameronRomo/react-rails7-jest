@@ -6,6 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+  * 2.7.2
 
 * System dependencies
 
@@ -16,6 +17,7 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+  * `npm run test`
 
 * Services (job queues, cache servers, search engines, etc.)
 
